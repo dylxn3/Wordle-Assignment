@@ -1,2 +1,2 @@
-# Yahtzee
-CS1027 Yahtzee Assignment
+# Wordle
+CS1027 WordleAssignment
